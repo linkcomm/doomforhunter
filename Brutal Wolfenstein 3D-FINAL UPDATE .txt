@@ -1,0 +1,53 @@
+===========================================================================
+Advanced engine needed  : The latest version of GZDoomis recommended.
+Primary purpose         : Single player
+===========================================================================
+Title                   : Brutal Wolfenstein-Final Update
+Filename                : ZMC-BWFinal.pk3
+Release date            : 17/11/2018
+Author                  : ZioMcCall
+Email Address           : zioenrico98@gmail.com
+			  
+
+Description             : This is my final update for ZioMcCall's                           Brutal Wolfenstein.This mix together the two
+                          remade levels meant for v.5.0,with the Laz                           Rojas maps from V.4.5. plus some extra                           levels.
+                         
+                          
+===========================================================================
+* What is included *
+
+New levels              : Around 80
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Demos                   : No
+Other                   : Yes (DECORATE,ACS,GLDFES,SBARINFO....)
+Other files required    : 
+
+
+* Play Information *
+
+Game                    : DOOM2
+Single Player           : Designed for
+Cooperative 2-4 Player  : I'm afraid not
+Deathmatch 2-4 Player   : NO,IT'S COMPLETELY UMBALANCED FOR DEATHMATCH!
+Other game styles       : No
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : Brutal Doom
+Build time              : God,passed quite some time from v.1.0.....
+Editor(s) used          : Slade 3,GzDoom Builder,Gimp2,Audacity
+Known Bugs              : Nope.
+May Not Run With        : The software renderer, Zandronum
+Tested With             : GZDoom 3.6.
+
+
+
+* Copyright / Permissions *
+
+You can modificated and rip files from this mod and use them for free project,as long you credit the respective owners.
+
+

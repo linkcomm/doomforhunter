@@ -1,0 +1,285 @@
+CREDITS
+Sgt_Mark_Iv-Without his stuff from Brutal Doom,such blood,special effects and codes,this mod
+wouldn't be exist.
+
+Ozymandias81-A great helper and friend.He helped me with misc. stuff during the 
+general develompment.
+
+Ark@ne-For sharing my mod on ModDb 
+
+Laz Rojas-thanks to his numerous Wolf 3D TC for Doom,i was able to have the original maps
+as base for my work and a huge amount of fantastic textures.
+
+Id Software:For making Wolfenstein 3D and Doom 2,which are my two of my favourite games and 
+was an isipiration for the First Person Shooter genre
+
+___Games that ispirated me during the develompment____
+
+Return to castle Wolfenstein-My favourite Wolfenstein chapter.
+A lot of sounds and music was take from this game and ispirated
+the new Blazcowitcz look for this mod.
+
+Call of Duty World at War-For me,this is the best and brutal CoD ever made.
+Some death aniamtions are ispired from this game and few sounds and graphics was take
+from here.
+
+
+_____Mods that ispired me during the develompment____
+
+Spear Revisted TC by Caleb26-the level desgin in this tc was simple,but so beautiful 
+to look.Caleb's maps ispired me during the remaking of some levels
+
+WolfenDoom:blade of Agony-one of the best Wolfenstein 3D/Doom's mods ever made.
+Some enemies behaviors and maps structure was ispired from here.
+
+
+______CODE_______
+
+-SGT_MARK_IV
+-ZioMcCall
+-Afadoomer
+-SHZEE
+-Ozymandias81
+
+______Textures________
+
+-Laz Rojas
+-SGT_MARK_IV
+-Executor
+-Enjay
+-Id Software
+-Ozymandias81
+
+____________SPRITES_____________
+
+----Weapons and his Ammo----
+
+-Knife:White Ace,Mr.Enchanter
+-Grenades:Wild Weasel
+-Axe:Raven Software(Hexen)
+-Colt45:Wild Wessel,SGT_MARK_IV,jdredalert(Iron sight)
+-Luger/Lugers:JoeyTD,Iron sight by Deimus
+-MP40/Double MP40:Apogee Software,Treyarch,GAA1992(or Sgt. Shivers.),Captain J Flavor
+-STG44:White Ace,Mr.Enchanter,Laz Rojas,Captain J Flavor
+-Thompson:White Ace,Tripware Interactive,Mr.Enchanter
+-MG42:SGT_MARK_IV,Treyarch,Donnel "Jazzmaster9" Enriquez,Carbine Dioxide
+-Bar:Carbine Dioxide
+-Kar 98:White Ace,Laz Rojas,Wolf Skevos-Jones,Captain J Flavor,Lippeth,EletricPulse
+-Panzershreck:Donnel "Jazzmaster9" Enriquez,Mr.Enchanter
+-Flamethrower:Captain J 
+-M1GARAND:White Ace,Carbine Dioxide,Deimus
+-Trench Gun:MidoriMan,SamVision.
+-Kick:Sgt. Shivers,3D realms.
+-PPSH-41:Denis belmondo
+-Flamethrower:Captain J 
+
+-------ENEMIES------
+
+Guards:AFADOOMER,Id Software,Laz Rojas,ZioMcCall,FormGen Corporation,UnTrustable,DoomJuan
+Rifleman:AFadoomer,Id Software,FormGen Corporation,UnTrustable,DoomJuan,Deimus
+Blue SS:Afadoomer,Id Software,Laz Rojas,ZioMcCall,Denis BelMondo,David G
+Grey SS:FormGen Corporation,Denis BelMondo,DoomJuan
+Officer:Afadoomer,Laz Rojas,Id Software,ZioMcCall,Captain J,FormGen Corporation,,Denis BelMondo,DoomJuan
+Officer with MP40:ZioMcCall,FormGen Corporation,,Denis BelMondo,DoomJuan
+Mutants:Adadoomer,laz Rojas,Id Software
+Mutants whit gatling gun:ZioMcCall,Laz Rojas
+Flamethrower guy:ZiomCall and Captain j
+Nazi Girl:José "CoTeCiO" Navarrete,ZioMcCall and Wolf Skevos-Jones,Scalliano
+PacMan's Ghost:Laz Rojas,Id Software,Untrustable?
+Hans Grosse:Id software and Untrustable
+DR Schabss:ZioMCall,FormGen Corporation(Spear of destiny mission pack)
+Hitler:Untrustable and Id Software
+Panzer V "Panther":Laz Rojas 
+Otto Giftmacher:Afadoomer,Id Software,Mallo
+Gretel Grosse:Same credits of Nazi Girl
+General Fettgheist:Afadoomer,Untrustable,Id Software
+Dogs:Afadoomer and Untrustable
+Light Guard:Apogee Software,SHZEE
+
+________Items__________
+
+Vases:Apogee Software(Aka 3D Realms),Afadoomer,Id Sofware
+Skeletons:ZioMcCall,SGT_MARK_IV,Afadoomer,Id Software
+Wood barrel:ZioMcCall,SGT_MARK_IV,Afadoomer,Id Software
+Oil Barrel:ZioMcCall,SGT_MARK_IV(Explosion effect),laz rojas,Id Software
+Tables:ZioMcCall,SGT_MARK_IV(Particles),Laz rojas,Id Software
+Treasure:Afadoomer
+Tree:ZioMcCall,Laz Rojas,SGT_MARK_IV
+
+
+Other items are made by Laz Rojas
+
+Gore:
+-Apogee Software
+-SGT_MARK_IV(?)
+-Radys
+-Nash
+
+The blood,the tracers,some death animations are made by SGT_MARK_IV
+
+-Sounds-
+
+-Tripwire interactive
+-Sledgehammer games
+-Infinity Ward
+-Treyarch
+-Id software
+-Afadoomer
+-Apogee Software
+-MACINTOSH's Wolfenstein 3D
+-SGT_MARK_IV
+-Laz Rojas
+-SHZEE
+-Wolf Skevos-Jones
+-Raven Software
+-Valve Software
+-EA Software
+-New World interactive
+-Call of duty 2:back2fronts team
+
+-Graphic-
+
+-Afadoomer
+-Id Software
+-ZioMcCall
+-Laz Rojas
+-Ozymandias81
+
+-ACS-
+
+-nash,maxed,sgt_mark_iv,Ozymandias81
+
+-HUD-
+Grapichs by Id Software,White Ace(Ammo bar) and Wild Weasel(the grenade)
+Sbarinfo code made by me.
+
+-MAPS-
+
+-Laz Rojas(base MAP01-10)
+
+-Music-
+
+Bill Brown
+Rich Douglas(https://www.youtube.com/user/RDMusic007)
+Brainstewx
+Nothing but Zero
+Rock Gray 
+Elitedfish
+silverfish
+Brian Luzzietti
+Beckett007
+HangManVIV2
+
+
+CHANGELOG
+
+V4.1 Changes
+-Accelerated the choice of weapons.
+-Extra Animations for the SS, SoD and female SS guards.
+-Improved Ambient light.
+-New Voices for SOD SS and for the officer when launch the grenade taken from
+Men of War:Assault Squad.
+-New sounds for the Mp40,the Thompson and the STG44 take from Call of Duty 1.
+-Replaced the Panzergrenadier with the Spear of Destiny's Elite Guards;
+these are as fast as the regular SS, but are much more lethal.(Credits:Apogee Software)
+-Riflemans have new sprite rotations when they fire and are much strong.
+
+
+V4.4 Changes
+
+-Remade all the arsenal(Sprites,Decorate,sound),deleted
+the Gatiling,the fist and the Plasma mp40,but i added new weapons
+like the M1 Garand,the Rojas v3.0(An rare Autho-Shotgun)and even a new
+secret weapon
+-Added an compart audio for some items
+-Now the Column of stone are more realistic than first:you can destroy
+them only with the Panzershreck or with grenades.
+-Added two new controls:with "V" you can perform a melee attack
+like in Call of Duty:World At War,and with "G" you can launch immediatly
+one grenade.
+-HUD went remade
+-Coop mode for all the maps + two old-school deathmatch maps
+-Reverted original maps e1m9,e1m1,e3m9, with few changes done by me.
+-Added more Easter Eggs in various maps
+-Reput the original Adolf Hitler and Hans Grosse.
+-New Logo & Titlepic by Ozymandias81
+-Remade B.J. decorate.
+-Convert some Rojas maps in "Hexen format" for use the acs and added
+the possibily to begin with different weapons at the begin of each
+episode(Ex:in e1m1 you start with a luger and in e2m1 with a Thompson and a colt)
+And other things that i can't remember.
+
+V4.5 Changes
+----Ozymandias81's work--------
+-Converted all non-ogg sounds into ogg ones, the same for music (where possible)
+-Fixed SBARINFO
+-Redraw HELP and CREDIT lumps
+-PNGOUT'd all graphics (where possible)
+-Pk3 big repolishment (folders, actors, sprites, inheritances etc.)
+-Removed that useless dehacked lump
+-Removed/fixed quite all warnings/conflicts/missing sounds/actors/defs (only 1 left)
+--------ZioMcCall's Changes-------
+-Remade Mp40's Sprites(Credits go to Deimus and Denis Belmondo)
+-Add new death animation at Grey SS,Blue SS,Guards and Officers
+-New cool movements for all the weapons(Thanks again Denis)
+-Made the fullscreen hud compatible with the 4:3 screen ratio,but work
+fine only the 1024x768 ratio
+-And other things that i don't remember
+BEFORE TRYIN' TO SAY TO ME "YOU STOLE EVERYTHING!", HAVE A LOOK INSIDE CREDITS.TXT!
+
+V4.5 Changes remastered
+
+-Made the mod compatible with the new versions of gzdoom 
+-Some sprites replacements for the skin of the player,officers and the MP40
+-Replaced the Rojas gun with a normal Trench Gun and decreased the max. ammo of the shells from 150 to 60
+-New hud 
+-Music from the music pack now are directly put on the main mod.
+-Changed some sounds.
+
+Project Bulletstorm(Previously known as V4.5)V.0 
+
+-Replaced some sounds
+-Replaced some sprites
+-New weapon:the american B.A.R. 
+-Deleted the two deathmatch maps and "AntoLeve"
+-Tested the compatibility with Zandronum 3.0 in Cooperative with four friends of mine
+All thanks to my friend LegDroid for making the server and let me test with a good ping.
+https://www.youtube.com/channel/UCgBSvl ... -1-0wc9waA
+
+v5.0 Demo
+
+-Project Bulletstorm and Classic redux are scrapped.We back to the classic project develompment
+-Totaly reworked all the weapons:now have different mechanichs,new sprites,new sounds and new animations.
+-New sprites for guards,rifleman,SS,Elite SS,Officers,Dogs and Hans Grosse.
+-New enemies behavior(such new attacks)
+-Remade some props sprites and code
+-The demo offer only the first episode of Wolfenstein 3D.All the whole episode have remade levels,such different heights,sliding doors,few new areas and etc.
+-New sprites for the kick
+-New blood walls decals from Brutal Doom v20b
+-Added custom options,which interest the customization of enemies,props,ammo spawn.
+-New titlemap
+-Remade some graphics(menus and hud)
+-Remade the hud with new graphics and new valour to show.
+-And other misc stuff.
+
+Old V5.0 wip
+
+-Deleted custom options about gameplay
+-EP2 and EP3 levels are added.They aren't complete but kinda playable
+-Enemies behaviour is reworked at second of the difficulty
+-Changed difficulties
+-Added new weapons
+-Added mutants,along with the new purple blood
+-replaced most of the music with Rich Douglas re-remastereds.(https://www.youtube.com/user/RDMusic007)
+-New sounds(check credits)
+-Added new props
+.Added the possibilty to throw axes and switching melees.
+
+Final Update
+-Reworked the wip works to be more functionable and playable
+-Added the maps from V.4.5,fixed them and make them playable with the current build
+Some of them was reworked and made them more balanced,but most of 'em still have an unfair gameplay and untouched.
+-Added more scenes in the titlemap
+-From the old v.5.0,the remade episode 1 and 2 are playable with a different name,for don't confuse them with the version from v.4.5.The remake of episode 2 doesn't have the secret level and the last level wasn't tested enough.
+-Changed BW OPTIONS into EXTRA,wich include some random levels from the older version of brutal wolfenstein
+-Replaced the knife slot with the fists from v.4.1.They act similiar to the kick.
